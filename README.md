@@ -3,7 +3,6 @@
 This project demonstrates basic manipulation of the turtlesim package in ROS2.  
 
 This project was completed successfully as part of the training program.
-The task covered basic ROS2 service calls, topics, and node operations with 
 ---
 
 Requirements
